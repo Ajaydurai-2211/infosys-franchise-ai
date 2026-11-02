@@ -136,34 +136,46 @@ Each user can view their username, email, role, joined date and last login. User
 
 ### 🔐 Login and signup
 
-`Add login and signup screenshot here`
+<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/a94935cb-e290-4bf6-a53e-c9b31ea380ff" />
+
+<img width="1917" height="928" alt="image" src="https://github.com/user-attachments/assets/25738bbb-0829-4657-bc96-fb2ddd2e1352" />
+
 
 ### 👤 Profile page
 
-`Add Profile screenshot here`
+<img width="1917" height="928" alt="image" src="https://github.com/user-attachments/assets/8d9075a4-9296-4d65-8946-087e15fcb1b7" />
+
 
 ### 👑 Admin dashboard
 
-`Add Admin dashboard screenshot here`
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/edf8831d-bf42-4ae2-b6e1-b7c051b7329b" />
+
 
 ### 🛡️ Role-based denial
 
-`Add one restricted-role 403 screenshot here`
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/bb98068c-2719-4fe5-9249-cea474a452c1" />
+
 
 ### 🤖 AI Copilot
 
-`Add greeting and SQL-answer screenshots here`
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/f818db7a-471b-4517-8b6b-4f81e07d27d0" />
+
 
 ### 📊 Six agents
 
-`Add Workforce, Outlets, Inventory, Marketing, Sentiment and Audit screenshots here`
+<img width="1917" height="928" alt="image" src="https://github.com/user-attachments/assets/c39fe38d-bc58-4ba4-999f-16aa5cab9680" />
+
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/233cc3a2-5c83-431f-9350-7a83fdec3293" />
+
+<img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/3c661f7a-32b7-4403-be49-b52f64fc93cd" />
+
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/71483911-87ff-49b4-a8f0-63e7626ce105" />
+
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/0e9d42b6-051b-4b04-a8d1-9e2c22af55b6" />
+
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/9542a6e1-6b53-47dc-b35c-8ddc1cf440ec" />
+
 
 ## 🔒 Security reminder
 
 🚫 Never upload `.env` files, databases, email app passwords, JWT secrets, OTP values, ngrok tokens, session cookies, or access tokens to GitHub.
-
-✅ Before submission, clear notebook outputs and confirm that no secrets appear in code, screenshots, or commit history.
-
----
-
-Made for **Infosys Springboard Internship 7.0 — Milestone 2** 💙
