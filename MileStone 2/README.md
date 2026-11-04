@@ -175,7 +175,10 @@ Each user can view their username, email, role, joined date and last login. User
 
 <img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/9542a6e1-6b53-47dc-b35c-8ddc1cf440ec" />
 
-
+### 👥 Team Members
+- Ajay D
+- Akshita Pator
+- Madhavi Katekhaye
 ## 🔒 Security reminder
 
 🚫 Never upload `.env` files, databases, email app passwords, JWT secrets, OTP values, ngrok tokens, session cookies, or access tokens to GitHub.
