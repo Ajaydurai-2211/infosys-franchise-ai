@@ -435,21 +435,22 @@ Store screenshots under `Milestone3/screenshots/` and keep filenames consistent 
 
 Capture the Builder completion/evidence output showing unique extracted PDFs, distinct PDF source URLs represented in chunks, total chunks, and index creation. A screenshot showing only downloaded PDF files is insufficient.
 
-![RAG Builder: verified sources and chunks]![alt text](<Screenshot 2026-11-15 203328.png>)
+<img width="1572" height="967" alt="image" src="https://github.com/user-attachments/assets/f643b078-8837-41c8-974b-0b4f86e3b6b0" />
 
 ### Teach Copilot: 50 / 50
 
 Capture Admin → Teach Copilot or Copilot insights showing the verified taught count of 50 / 50 (or greater, if displayed).
 
-![Copilot Insights](<Screenshot 2026-11-15 204122.png>)
+<img width="1576" height="927" alt="image" src="https://github.com/user-attachments/assets/bf33af49-0b66-481b-a316-bfb7f41c1b03" />
 
-![50+ Questions Taught](<Screenshot 2026-11-15 204240.png>)
+<img width="1537" height="937" alt="image" src="https://github.com/user-attachments/assets/4195ec3e-7c83-40c8-b9ac-542218194358" />
+
 
 ### Copilot answer with citations [1] and [2]
 
 Capture a relevant knowledge question and its answer with the expanded Sources section. The source titles/URLs must correspond to actual retrieved documents, and the cited passages must support the answer.
 
-![Copilot answers with sources 1 2 and 3](<Screenshot 2026-11-15 205014.png>)
+<img width="1527" height="512" alt="image" src="https://github.com/user-attachments/assets/8872a21e-8362-4e87-bee4-58aaad88a463" />
 
 ### Admin → Copilot insights
 
