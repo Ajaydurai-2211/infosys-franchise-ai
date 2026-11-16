@@ -339,50 +339,68 @@ Add the requested screenshots below. Use the same input values where possible so
 #### Inventory simulator
 
 **Before**  
-![Inventory simulator before improvement](screenshots/inventory_simulator_before.png)
 
-**After**  
-![Inventory simulator after improvement](screenshots/inventory_simulator_after.png)
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/1acd7567-fbba-4548-9b6e-db932916dab6" />
+
+**After** 
+
+<img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/4968da0f-9cfd-487d-b84b-d6cead3dc72b" />
+
 
 #### Workforce simulator
 
 **Before**  
-![Workforce simulator before improvement](screenshots/workforce_simulator_before.png)
+
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/7dd80469-09af-43c1-bba8-3ee8e0a9d6f1" />
 
 **After**  
-![Workforce simulator after improvement](screenshots/workforce_simulator_after.png)
+
+<img width="1600" height="843" alt="image" src="https://github.com/user-attachments/assets/44a50714-e34c-4387-8771-88e58b31b324" />
+
 
 #### Outlet P&L simulator
 
 **Before**  
-![P&L simulator before improvement](screenshots/pnl_simulator_before.png)
+
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/6993e984-5fac-4b4c-ba55-c547157e19a0" />
 
 **After**  
-![P&L simulator after improvement](screenshots/pnl_simulator_after.png)
+
+<img width="1600" height="831" alt="image" src="https://github.com/user-attachments/assets/20c91928-f15f-42af-8e4e-9a7f0105b4a5" />
+
 
 #### Marketing simulator
 
 **Before**  
-![Marketing simulator before improvement](screenshots/marketing_simulator_before.png)
+
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/10890c35-9094-44ec-a5e0-61cfb2100f6d" />
 
 **After**  
-![Marketing simulator after improvement](screenshots/marketing_simulator_after.png)
+
+<img width="1600" height="836" alt="image" src="https://github.com/user-attachments/assets/94598e27-43e1-4892-979a-735ca95b56cb" />
+
 
 #### Sentiment simulator
 
 **Before**  
-![Sentiment simulator before improvement](screenshots/sentiment_simulator_before.png)
+
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/7830666c-adfc-4199-bf58-e43559b2abc3" />
 
 **After**  
-![Sentiment simulator after improvement](screenshots/sentiment_simulator_after.png)
+
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/c3bd5d8a-1b94-4de4-99f3-19ce66a1403f" />
+
 
 #### Audit simulator
 
 **Before**  
-![Audit simulator before improvement](screenshots/audit_simulator_before.png)
 
-**After**  
-![Audit simulator after improvement](screenshots/audit_simulator_after.png)
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/874e3d4a-3bda-4b58-99cc-d7582c71c8ee" />
+
+**After** 
+
+<img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/cf9ae0ea-c77b-4318-a07f-4e58d687c464" />
+
 
 ## 10. Milestone 2 integration and access control
 
@@ -418,11 +436,13 @@ Store screenshots under `Milestone3/screenshots/` and keep filenames consistent 
 Capture the Builder completion/evidence output showing unique extracted PDFs, distinct PDF source URLs represented in chunks, total chunks, and index creation. A screenshot showing only downloaded PDF files is insufficient.
 
 ![RAG Builder: verified sources and chunks]![alt text](<Screenshot 2026-11-15 203328.png>)
+
 ### Teach Copilot: 50 / 50
 
 Capture Admin → Teach Copilot or Copilot insights showing the verified taught count of 50 / 50 (or greater, if displayed).
 
 ![Copilot Insights](<Screenshot 2026-11-15 204122.png>)
+
 ![50+ Questions Taught](<Screenshot 2026-11-15 204240.png>)
 
 ### Copilot answer with citations [1] and [2]
@@ -430,6 +450,7 @@ Capture Admin → Teach Copilot or Copilot insights showing the verified taught 
 Capture a relevant knowledge question and its answer with the expanded Sources section. The source titles/URLs must correspond to actual retrieved documents, and the cited passages must support the answer.
 
 ![Copilot answers with sources 1 2 and 3](<Screenshot 2026-11-15 205014.png>)
+
 ### Admin → Copilot insights
 
 
@@ -441,8 +462,9 @@ Capture a relevant knowledge question and its answer with the expanded Sources s
 
 ---
 
-**Contributions:**   
-`Dhanush R - Added 150+ Websites and PDF for RAG Sources`
-`Ajay D - Finetuned AI Copilot`
-`Chokkarapuwar Sujal - Improved the agents Simulation and integrated Milestone-2`
-`Varsha Spoorthi Shree Narravula - Taught 50+ questions that were unanswered by copilot`
+## Contributions
+
+- **Dhanush R** - Added 150+ Websites and PDFs for RAG Sources
+- **Ajay D** - Finetuned AI Copilot
+- **Chokkarapuwar Sujal** - Improved the Agents Simulation and integrated Milestone-2
+- **Varsha Spoorthi Shree Narravula** - Taught 50+ questions that were unanswered by Copilot
